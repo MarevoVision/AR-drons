@@ -1,0 +1,28 @@
+{
+  "ItemsCount" : 5,
+  "dron_1" : {
+    "longitude" : 119.46606,
+    "latitude" : 32.19467,
+    "status" : false
+  },
+  "dron_2" : {
+    "longitude" : 119.56606,
+    "latitude" : 32.19567,
+    "status" : false
+  },
+  "dron_3" : {
+    "longitude" : 119.66606,
+    "latitude" : 32.19567,
+    "status" : false
+  },
+  "dron_4" : {
+    "longitude" : 119.76606,
+    "latitude" : 32.19567,
+    "status" : false
+  },
+  "dron_5" : {
+    "longitude" : 119.86606,
+    "latitude" : 32.19567,
+    "status" : false
+  }
+}
